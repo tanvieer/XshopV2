@@ -72,7 +72,7 @@
 <form action=<%= uri %> method="post">
  <p>
         <input type="submit" value="Confirm Delete" /> |
-        <a href="">Back to List</a>
+        <a href="EmployeeList.jsp">Back to List</a>
     </p>
 </form>
 

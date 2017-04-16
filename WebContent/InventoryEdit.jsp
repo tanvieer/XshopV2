@@ -46,7 +46,7 @@
     </fieldset>
 </form>
 <div>
-    <a href="">Back to List</a>
+    <a href="InventoryList.jsp">Back to List</a>
 </div>
 
 </body>

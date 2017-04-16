@@ -5,7 +5,7 @@
 <h2>Index</h2>
 
 <p>
-    <a href="">Back To SaleCart</a>
+    <a href="HomeSales.jsp">Back To SaleCart</a>
 </p>
 <table border="1">
     <tr>

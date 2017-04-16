@@ -47,8 +47,8 @@
                     10
                 </td>
                 <td>
-                    <a href="Edit/1">Edit</a> |
-                    <a href="Delete/1">Delete</a>
+                    <a href="InventoryEdit.jsp">Edit</a> |
+                    <a href="InventoryDelete.jsp">Delete</a>
                 </td>
             </tr>
             <tr>
@@ -65,8 +65,8 @@
                     0
                 </td>
                 <td>
-                    <a href="Edit/2">Edit</a> |
-                    <a href="Delete/2">Delete</a>
+                   <a href="InventoryEdit.jsp">Edit</a> |
+                    <a href="InventoryDelete.jsp">Delete</a>
                 </td>
             </tr>
             <tr>
@@ -83,8 +83,8 @@
                     95
                 </td>
                 <td>
-                    <a href="Edit/3">Edit</a> |
-                    <a href="Delete/3">Delete</a>
+                    <a href="InventoryEdit.jsp">Edit</a> |
+                    <a href="InventoryDelete.jsp">Delete</a>
                 </td>
             </tr>
 

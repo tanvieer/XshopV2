@@ -14,21 +14,21 @@
             <label>ProductName</label>
         </div>
         <div>
-            <input id="ProductName" name="ProductName" type="text" value="" />
+            <input id="ProductName" name="ProductName" type="text" value=""  required/>
         </div>
 
         <div >
             <label>ProductBuyPrice</label>
         </div>
         <div >
-            <input  id="ProductBuyPrice" name="ProductBuyPrice" type="text" value="" />
+            <input  id="ProductBuyPrice" name="ProductBuyPrice" type="number" required value="" />
         </div>
 
         <div>
             <label>ProductSellPrice</label>
         </div>
         <div>
-            <input id="ProductSellPrice" name="ProductSellPrice" type="text" value="" />
+            <input id="ProductSellPrice" name="ProductSellPrice" type="number" required value="" />
            
         </div>
 
@@ -45,7 +45,7 @@
     </fieldset>
 </form>
 <div>
-    <a href="">Back to List</a>
+    <a href="InventoryList.jsp">Back to List</a>
 </div>
 
 </body>
