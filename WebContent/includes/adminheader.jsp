@@ -17,7 +17,7 @@
                     <!-- <a href="index.html">Shop Management System</a> -->
                     <img class="clear" src= "./image/XShopLogo.png" alt="SimpleChart" style="width:22%;height:14%;" />
                     
-                    <div class="right"><a href="/User/LogOff">Logout</a></div>
+                    <div class="right"><a href="Logout.jsp">Logout</a></div>
 
                 </div>
             </div>

@@ -13,7 +13,7 @@
         }
 
         .logo a {
-            color: #E95393;
+            color: #FF0000;
             font-family: 'open_sanssemibold';
             font-size: 2.8em;
             text-decoration: none;
@@ -41,7 +41,7 @@
             }
 
                 .top-nav ul li a:hover {
-                    color: #E95393;
+                    color: #FF0000;
                 }
 
         .top-nav {
@@ -59,4 +59,5 @@
 
         .right{
             float: right;
+            color: #00008B;
         }
