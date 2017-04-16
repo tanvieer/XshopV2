@@ -12,57 +12,57 @@
 
         <input id="UserId" name="UserId" type="hidden" value="1" />
 
-        <div class="editor-label">
-            <label for="Name">Name</label>
+        <div>
+            <label>Name</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="Name" name="Name" type="text" value="Dokandar Shaheb" />
          </div>
 
-        <div class="editor-label">
-            <label for="PhoneNumber">Phone Number</label>
+        <div>
+            <label>Phone Number</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="PhoneNumber" name="PhoneNumber" type="text" value="01911066421" />
          </div>
 
-        <div class="editor-label">
-            <label for="EmployeeAddress">Employee Address</label>
+        <div>
+            <label>Employee Address</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="EmployeeAddress" name="EmployeeAddress" type="text" value="Dhaka" />
          </div>
 
-        <div class="editor-label">
-            <label for="Email">Email</label>
+        <div>
+            <label>Email</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="Email" name="Email" type="text" value="tanvieer@gmail.com" />
         </div>
 
-        <div class="editor-label">
-            <label for="Username">Username</label>
+        <div>
+            <label>Username</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="Username" name="Username" type="text" value="user" />
         </div>
 
-        <div class="editor-label">
+        <div>
             <label for="Password">Password</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="Password" name="Password" type="password" value="user" />
         </div>
 
-        <div class="editor-label">
-            <label for="ConfirmPassword">Confirm Password</label>
+        <div>
+            <label>Confirm Password</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="ConfirmPassword" name="ConfirmPassword" type="password" value="user" />
         </div>
 
-        <div class="editor-label">
-            <label for="Type">Type</label>
+        <div>
+            <label>Type</label>
         </div>
         <div>
             <select name="Type">
@@ -79,7 +79,7 @@
     </fieldset>
 </form>
 <div>
-    <a href="/Admin/ManageEmployee">Back to List</a>
+    <a href="">Back to List</a>
 </div>
 
 </body>

@@ -5,14 +5,16 @@
 <h2>Inventory List</h2>
 
 <p>
-    <a href="/Inventory/Create">Create New</a>
+    <a href="">Add New Product</a>
 </p>
 
-    <p>
-        product Less Than: 
-<form action="/Inventory/Index" method="post">        <input type="text" name="Productlessthan" value="1000"><br>
-        <input type="submit" value="show" formaction="/Inventory/Index"/>
-</form>    </p>
+        Product Less Than: 
+
+<form action="" method="post">
+	<input type="text" name="Productlessthan" value="1000"><br>
+	<input type="submit" value="show" formaction="uri" />
+</form>
+
 
     <table border="1">
         <tr>
@@ -45,9 +47,8 @@
                     10
                 </td>
                 <td>
-                    <a href="/Inventory/Edit/1">Edit</a> |
-                    <a href="/Inventory/Details/1">Details</a> |
-                    <a href="/Inventory/Delete/1">Delete</a>
+                    <a href="Edit/1">Edit</a> |
+                    <a href="Delete/1">Delete</a>
                 </td>
             </tr>
             <tr>
@@ -64,9 +65,8 @@
                     0
                 </td>
                 <td>
-                    <a href="/Inventory/Edit/2">Edit</a> |
-                    <a href="/Inventory/Details/2">Details</a> |
-                    <a href="/Inventory/Delete/2">Delete</a>
+                    <a href="Edit/2">Edit</a> |
+                    <a href="Delete/2">Delete</a>
                 </td>
             </tr>
             <tr>
@@ -83,17 +83,12 @@
                     95
                 </td>
                 <td>
-                    <a href="/Inventory/Edit/3">Edit</a> |
-                    <a href="/Inventory/Details/3">Details</a> |
-                    <a href="/Inventory/Delete/3">Delete</a>
+                    <a href="Edit/3">Edit</a> |
+                    <a href="Delete/3">Delete</a>
                 </td>
             </tr>
 
     </table>
-
-
-                </div>
-
 
 
 </body>

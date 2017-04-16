@@ -10,65 +10,69 @@
 <fieldset>
     <legend>User</legend>
 
-    <div class="display-label">
+    <div>
          Name
     </div>
-    <div class="display-field">
+    <div>
         Dokandar Shaheb
     </div>
 
-    <div class="display-label">
+    <div>
          Phone Number
     </div>
-    <div class="display-field">
+    <div>
         01911066421
     </div>
 
-    <div class="display-label">
+    <div>
          Employee Address
     </div>
-    <div class="display-field">
+    <div>
         Dhaka
     </div>
 
-    <div class="display-label">
+    <div>
          Email
     </div>
-    <div class="display-field">
+    <div >
         tanvieer@gmail.com
     </div>
 
-    <div class="display-label">
+    <div>
          Username
     </div>
-    <div class="display-field">
+    <div >
         user
     </div>
 
-    <div class="display-label">
+    <div >
          Password
     </div>
-    <div class="display-field">
+    <div>
         user
     </div>
 
-    <div class="display-label">
+    <div>
          Confirm Password
     </div>
-    <div class="display-field">
+    <div >
         user
     </div>
 
-    <div class="display-label">
+    <div>
          Type
     </div>
-    <div class="display-field">
+    <div>
         Salesman
     </div>
 </fieldset>
-<form action="/Admin/Delete/1" method="post"><input name="__RequestVerificationToken" type="hidden" value="US1xYowCr-GUvsdMdSI-hTBLhuesJuDXEOROc-Jn9L3oE0CreC86C3JzzGQocjzTmnPc-mBpweYjzG3DSy8vR0yBXOtHboMBzOkJeB-sBAyK42DJU3r4XRRXWUlxeUZk3ranYzYiYcWPSaI5pUu4BJ-WFruwpf5_5lkaBmLTLmM1" />    <p>
-        <input type="submit" value="Delete" /> |
-        <a href="/Admin/ManageEmployee">Back to List</a>
+
+<% String uri = "Delete/"+1; %>
+
+<form action=<%= uri %> method="post">
+ <p>
+        <input type="submit" value="Confirm Delete" /> |
+        <a href="">Back to List</a>
     </p>
 </form>
 

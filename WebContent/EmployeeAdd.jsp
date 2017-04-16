@@ -4,62 +4,64 @@
   
   
   
+  
+  
 <h2>Add New Employee</h2>
 
 <form action="EmployeeAddServlet" method="post">
     <fieldset>
         <legend>User</legend>
 
-        <div class="editor-label">
-            <label for="Name">Name</label>
+        <div>
+            <label>Name</label>
         </div>
-        <div class="editor-field">
+        <div >
             <input id="Name" name="Name" type="text" value="" />
         </div>
 
-        <div class="editor-label">
+        <div >
             <label >Phone Number</label>
         </div>
-        <div class="editor-field">
+        <div >
             <input id="PhoneNumber" name="PhoneNumber" type="text" value="" />
         </div>
 
-        <div class="editor-label">
-            <label for="EmployeeAddress">Employee Address</label>
+        <div>
+            <label>Employee Address</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="EmployeeAddress" name="EmployeeAddress" type="text" value="" />
          </div>
 
-        <div class="editor-label">
+        <div>
             <label for="Email">Email</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="Email" name="Email" type="text" value="" />
        </div>
 
-        <div class="editor-label">
+        <div>
             <label for="Username">Username</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="Username" name="Username" type="text" value="" />
         </div>
 
-        <div class="editor-label">
+        <div>
             <label for="Password">Password</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="Password" name="Password" type="password" value="" />
          </div>
 
-        <div class="editor-label">
+        <div>
             <label for="ConfirmPassword">Confirm Password</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="ConfirmPassword" name="ConfirmPassword" type="password" value="" />
         </div>
 
-        <div class="editor-label">
+        <div>
             <label for="Type">Type</label>
         </div>
         <div>

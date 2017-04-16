@@ -12,31 +12,31 @@
 
         <input id="InventoryID" name="InventoryID" type="hidden" value="1" />
 
-        <div class="editor-label">
-            <label for="ProductName">ProductName</label>
+        <div>
+            <label>ProductName</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="ProductName" name="ProductName" type="text" value="Rice" />
         </div>
 
-        <div class="editor-label">
-            <label for="ProductBuyPrice">ProductBuyPrice</label>
+        <div >
+            <label >ProductBuyPrice</label>
         </div>
-        <div class="editor-field">
+        <div >
             <input id="ProductBuyPrice" name="ProductBuyPrice" type="text" value="79" />
         </div>
 
-        <div class="editor-label">
-            <label for="ProductSellPrice">ProductSellPrice</label>
+        <div>
+            <label>ProductSellPrice</label>
         </div>
-        <div class="editor-field">
+        <div >
             <input id="ProductSellPrice" name="ProductSellPrice" type="text" value="85" />
         </div>
 
-        <div class="editor-label">
-            <label for="ProductQuantity">ProductQuantity</label>
+        <div>
+            <label>ProductQuantity</label>
         </div>
-        <div class="editor-field">
+        <div>
             <input id="ProductQuantity" name="ProductQuantity" type="number" value="10" />
         </div>
 

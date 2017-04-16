@@ -11,31 +11,31 @@
 <fieldset>
     <legend>Inventory</legend>
 
-    <div class="display-label">
+    <div >
          ProductName
     </div>
-    <div class="display-field">
+    <div>
         Rice
     </div>
 
-    <div class="display-label">
+    <div >
          ProductBuyPrice
     </div>
-    <div class="display-field">
+    <div >
         79
     </div>
 
-    <div class="display-label">
+    <div>
          ProductSellPrice
     </div>
-    <div class="display-field">
+    <div>
         85
     </div>
 
-    <div class="display-label">
+    <div>
          ProductQuantity
     </div>
-    <div class="display-field">
+    <div>
         10
     </div>
 </fieldset>
