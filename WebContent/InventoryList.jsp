@@ -5,7 +5,7 @@
 <h2>Inventory List</h2>
 
 <p>
-    <a href="">Add New Product</a>
+    <a href="InventoryAdd.jsp">Add New Product</a>
 </p>
 
         Product Less Than: 

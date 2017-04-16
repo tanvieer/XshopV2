@@ -5,7 +5,7 @@
 <h2>Index</h2>
 
 <p>
-    <a href="/Sales/Create">Back To SaleCart</a>
+    <a href="">Back To SaleCart</a>
 </p>
 <table border="1">
     <tr>

@@ -79,7 +79,7 @@
     </fieldset>
 </form>
 <div>
-    <a href="">Back to List</a>
+    <a href="EmployeeList.jsp">Back to List</a>
 </div>
 
 

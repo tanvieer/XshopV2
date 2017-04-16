@@ -23,11 +23,11 @@
             <div class="header-right">
                 <div class="top-nav">
                     <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/SalesReport/Index">SalesReport</a></li>
-                        <li><a href="/Sales/Create">SaleCart</a></li>
-                        <li><a href="/Inventory/Index">Inventory</a></li>
-                        <li><a href="/SalesManReport/Index">SalesManReport</a></li>
+                        <li><a href="HomeAdmin.jsp">Home</a></li>
+                        <li><a href="SalesReport.jsp">SalesReport</a></li>
+                        <li><a href="HomeSales.jsp">SaleCart</a></li>
+                        <li><a href="InventoryList.jsp">Inventory</a></li>
+                        <li><a href="SalesReportDaily.jsp">SalesManReport</a></li>
                         <hr />
 
                         <br />
