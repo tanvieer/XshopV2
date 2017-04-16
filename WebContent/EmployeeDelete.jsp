@@ -67,7 +67,7 @@
     </div>
 </fieldset>
 
-<% String uri = "Delete/"+1; %>
+<%! String uri = "Delete/"+1; %>
 
 <form action=<%= uri %> method="post">
  <p>
