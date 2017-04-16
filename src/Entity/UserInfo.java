@@ -11,8 +11,6 @@ public class UserInfo {
 	private String Type;
 	
 	
-	
-	
 	public UserInfo() {
 		// TODO Auto-generated constructor stub
 	}

@@ -6,7 +6,7 @@
 
 <h2>Add Inventory</h2>
 
-<form action="" method="post">
+<form action="InventoryAddServlet" method="post">
  <fieldset>
         <legend>Inventory</legend>
 
@@ -36,8 +36,9 @@
             <label>ProductQuantity</label>
         </div>
         <div>
-            <input id="ProductQuantity" name="ProductQuantity" type="number" value="" />
-        </div>
+			<input id="ProductQuantity" name="ProductQuantity" type="number"
+				value="" />
+		</div>
         <p>
             <input type="submit" value="Add New Inventory" />
         </p>
@@ -46,9 +47,6 @@
 <div>
     <a href="">Back to List</a>
 </div>
-
-
-
 
 </body>
 </html>

@@ -5,7 +5,7 @@
 
 <h2>Salesman Page</h2>
 
-<form action="/Sales/Create" method="post">
+<form action="" method="post">
 	<fieldset>
 		<legend>SalesCart</legend>
 
@@ -35,14 +35,9 @@
 					</div>
 
 
-
-
-
-
 					<div>
 						<label>ProductName</label>
 					</div>
-
 
 
 					<div>
@@ -119,24 +114,11 @@
 							<td>925 TAKA</td>
 						</tr>
 
-
-
-
-
-
-
-
-
-
 					</table>
 
 
 
 				</td>
-
-
-
-
 
 
 			</tr>
